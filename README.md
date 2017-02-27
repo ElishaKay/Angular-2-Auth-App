@@ -8,15 +8,10 @@ Explore the components of this app and add these to the Spotify app. Have a look
 <img src="auth.PNG">
 <br>
 <br>
-# Login
-
-This example shows how to add ***Login/SignUp*** to your application using `Lock` widget.
-
-You can read a quickstart for this sample [here](https://auth0.com/docs/quickstart/spa/angular2/01-login). 
 
 ## Getting Started
 
-Rename the `auth0.config.ts.example` file in the `app` directory to `auth0.config.ts` and provide your Auth0 client ID and domain.
+Check the `auth0.config.ts` file and provide your Auth0 client ID and domain.
 
 Install the npm packages described in the package.json and verify that it works:
 
