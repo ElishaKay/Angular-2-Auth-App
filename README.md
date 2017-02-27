@@ -1,3 +1,7 @@
+<img src="auth.PNG">
+<img src="auth2.PNG">
+<img src="spotify and auth.PNG">
+
 # Login
 
 This example shows how to add ***Login/SignUp*** to your application using `Lock` widget.
