@@ -1,10 +1,11 @@
 Your challenge is to combine this app with our Spotify app.
 
 <img src="spotify and auth.PNG">
-
+<br>
+<br>
 Explore the components of this app and add these to the Spotify app. Have a look below at this project's home page:
 
-<img src="auth2.PNG">
+<img src="auth.PNG">
 <br>
 <br>
 # Login
