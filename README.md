@@ -1,7 +1,12 @@
-<img src="auth.PNG">
-<img src="auth2.PNG">
+Your challenge is to combine this app with our Spotify app.
+
 <img src="spotify and auth.PNG">
 
+Explore the components of this app and add these to the Spotify app. Have a look below at this project's home page:
+
+<img src="auth2.PNG">
+<br>
+<br>
 # Login
 
 This example shows how to add ***Login/SignUp*** to your application using `Lock` widget.
